@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_create"
+        android:orderInCategory="100"
+        android:showAsAction="always|withText"
+        android:title="@string/action_create"
+        android:icon="@drawable/ic_stat_action_search" />
+    <item
+        android:showAsAction="always"
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_stat_image_flash_on"
+        android:title="Notification"/>
+    <item
+        android:showAsAction="always"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_stat_action_perm_identity"
+        android:title="Profile"/>
+
+
+</menu>

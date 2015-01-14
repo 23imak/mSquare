@@ -1,0 +1,2 @@
+D:\AndroidStudioProjects\StartingProject\StartingProject\build\intermediates\classes\debug
+D:\AndroidStudioProjects\StartingProject\StartingProject\build\intermediates\pre-dexed\debug\android-support-v4-afd9fb43acdbb56be9f060a3f4d3a7854b60e394.jar
